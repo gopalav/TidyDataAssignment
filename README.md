@@ -8,18 +8,19 @@ This repository contains a script "run_analysis.R", output of the script "TidyDa
 * Extract the zip file to the working directory and copy the run_analysis.R to the same working directory of R.
 
 ### Directory Structure:
-<Working directory>
-./run_analysis.R
-./UCI HAR Dataset/
-./UCI HAR Dataset/features.txt
-./UCI HAR Dataset/activity_labels.txt
-./UCI HAR Dataset/test/subject_test.txt
-./UCI HAR Dataset/test/X_test.txt
-./UCI HAR Dataset/test/y_test.txt
-./UCI HAR Dataset/train/subject_train.txt
-./UCI HAR Dataset/train/X_train.txt
-./UCI HAR Dataset/train/y_train.txt
-
+```
+-<Working directory>
+-./run_analysis.R
+-./UCI HAR Dataset/
+-./UCI HAR Dataset/features.txt
+-./UCI HAR Dataset/activity_labels.txt
+-./UCI HAR Dataset/test/subject_test.txt
+-./UCI HAR Dataset/test/X_test.txt
+-./UCI HAR Dataset/test/y_test.txt
+-./UCI HAR Dataset/train/subject_train.txt
+-./UCI HAR Dataset/train/X_train.txt
+-./UCI HAR Dataset/train/y_train.txt
+```
 
 ## Run Project:
 * After setting up the project, run the following command at R command prompt "source('./run_analysis.R')" in the R working directory.
