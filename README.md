@@ -4,6 +4,7 @@ This repository contains a script "run_analysis.R", output of the script "TidyDa
 
 ## Project Setup:
 * Checkout this project and copy the "run_analysis.R" file into the working directory of R.
+* This script uses a library "reshape2".  Make sure that you install this package using the command "install.packages("reshape2")" if its not already installed in your local R.
 * This script uses the dataset downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.  
 * Extract the zip file to the working directory and copy the run_analysis.R to the same working directory of R.
 
