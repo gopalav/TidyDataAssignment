@@ -37,36 +37,36 @@
 | FFTforBodyAccelerationJerkMagMean..| 	33	       | Mean of FFT for Body Acceleration Jerk Magnitude     |	       |
 | FFTforBodyGyroMagMean..| 	34	       | Mean of FFT for Body Angular Velocity in Magnitude   |	       |
 | FFTforBodyGyroJerkMagMean..| 	35	       | Mean of FFT for Body Angular Velocity Jerk Magnitude     |	       |
-| TimeforBodyAccelerationStd..inX| 	36	       | Std of Time for Body Acceleration in X direction      |	       |
-| TimeforBodyAccelerationStd..inY| 	37	       | Std of Time for Body Acceleration in Y direction      |	       |
-| TimeforBodyAccelerationStd..inZ| 	38	       | Std of Time for Body Acceleration in Z direction      |	       |
-| TimeforGravityAccelerationStd..inX| 	39	       | Std of Time for Gravity Acceleration in X direction      |	       |
-| TimeforGravityAccelerationStd..inY| 	40	       | Std of Time for Gravity Acceleration in Y direction      |	       |
-| TimeforGravityAccelerationStd..inZ| 	41	       | Std of Time for Gravity Acceleration in Z direction      |	       |
-| TimeforBodyAccelerationJerkStd..inX| 	42	       | Std of Time for Body Acceleration Jerk in X direction      |	       |
-| TimeforBodyAccelerationJerkStd..inY| 	43	       | Std of Time for Body Acceleration Jerk in Y direction      |	       |
-| TimeforBodyAccelerationJerkStd..inZ| 	44	       | Std of Time for Body Acceleration Jerk in Z direction      |	       |
-| TimeforBodyGyroStd..inX| 	45	       | Std of Time for Body Angular Velocity in X direction      |	       |
-| TimeforBodyGyroStd..inY| 	46	       | Std of Time for Body Angular Velocity in Y direction      |	       |
-| TimeforBodyGyroStd..inZ| 	47	       | Std of Time for Body Angular Velocity in Z direction      |	       |
-| TimeforBodyGyroJerkStd..inX| 	48	       | Std of Time for Body Angular Velocity Jerk in X direction      |	       |
-| TimeforBodyGyroJerkStd..inY| 	49	       | Std of Time for Body Angular Velocity Jerk in Y direction      |	       |
-| TimeforBodyGyroJerkStd..inZ| 	50	       | Std of Time for Body Angular Velocity Jerk in Z direction      |	       |
-| TimeforBodyAccelerationMagStd..| 	51	       | Std of Time for Body Acceleration Magnitude      |	       |
-| TimeforGravityAccelerationMagStd..| 	52	       | Std of Time for Gravity Acceleration Magnitude      |	       |
-| TimeforBodyAccelerationJerkMagStd..| 	53	       | Std of Time for Body Acceleration Jerk Magnitude     |	       |
-| TimeforBodyGyroMagStd..| 	54	       | Std of Time for Body Angular Velocity Magnitude      |	       |
-| TimeforBodyGyroJerkMagStd..| 	55	       | Std of Time for Body Angular Velocity Jerk Magnitude    |	       |
-| FFTforBodyAccelerationStd..inX| 	56	       | Std of FFT for Body Acceleration in X direction      |	       |
-| FFTforBodyAccelerationStd..inY| 	57	       | Std of FFT for Body Acceleration in Y direction      |	       |
-| FFTforBodyAccelerationStd..inZ| 	58	       | Std of FFT for Body Acceleration in Z direction      |	       |
-| FFTforBodyAccelerationJerkStd..inX| 	59	       | Std of FFT for Body Acceleration Jerk in X direction      |	       |
-| FFTforBodyAccelerationJerkStd..inY| 	60	       | Std of FFT for Body Acceleration Jerk in Y direction      |	       |
-| FFTforBodyAccelerationJerkStd..inZ| 	61	       | Std of FFT for Body Acceleration Jerk in Z direction      |	       |
-| FFTforBodyGyroStd..inX| 	62	       | Std of FFT for Body Angular Velocity in X direction      |	       |
-| FFTforBodyGyroStd..inY| 	63	       | Std of FFT for Body Angular Velocity in Y direction      |	       |
-| FFTforBodyGyroStd..inZ| 	64	       | Std of FFT for Body Angular Velocity in Z direction      |	       |
-| FFTforBodyAccelerationMagStd..| 	65	       | Std of FFT for Body Acceleration Magnitude      |	       |
-| FFTforBodyAccelerationJerkMagStd..| 	66	       | Std of FFT for Body Acceleration Jerk Magnitude     |	       |
-| FFTforBodyGyroMagStd..| 	67	       | Std of FFT for Body Angular Velocity Magnitude      |	       |
-| FFTforBodyGyroJerkMagStd..| 	68	       | Std of FFT for Body Angular Velocity Jerk Magnitude     |	       |
+| TimeforBodyAccelerationStd..inX| 	36	       | Standard Deviation of Time for Body Acceleration in X direction      |	       |
+| TimeforBodyAccelerationStd..inY| 	37	       | Standard Deviation of Time for Body Acceleration in Y direction      |	       |
+| TimeforBodyAccelerationStd..inZ| 	38	       | Standard Deviation of Time for Body Acceleration in Z direction      |	       |
+| TimeforGravityAccelerationStd..inX| 	39	       | Standard Deviation of Time for Gravity Acceleration in X direction      |	       |
+| TimeforGravityAccelerationStd..inY| 	40	       | Standard Deviation of Time for Gravity Acceleration in Y direction      |	       |
+| TimeforGravityAccelerationStd..inZ| 	41	       | Standard Deviation of Time for Gravity Acceleration in Z direction      |	       |
+| TimeforBodyAccelerationJerkStd..inX| 	42	       | Standard Deviation of Time for Body Acceleration Jerk in X direction      |	       |
+| TimeforBodyAccelerationJerkStd..inY| 	43	       | Standard Deviation of Time for Body Acceleration Jerk in Y direction      |	       |
+| TimeforBodyAccelerationJerkStd..inZ| 	44	       | Standard Deviation of Time for Body Acceleration Jerk in Z direction      |	       |
+| TimeforBodyGyroStd..inX| 	45	       | Standard Deviation of Time for Body Angular Velocity in X direction      |	       |
+| TimeforBodyGyroStd..inY| 	46	       | Standard Deviation of Time for Body Angular Velocity in Y direction      |	       |
+| TimeforBodyGyroStd..inZ| 	47	       | Standard Deviation of Time for Body Angular Velocity in Z direction      |	       |
+| TimeforBodyGyroJerkStd..inX| 	48	       | Standard Deviation of Time for Body Angular Velocity Jerk in X direction      |	       |
+| TimeforBodyGyroJerkStd..inY| 	49	       | Standard Deviation of Time for Body Angular Velocity Jerk in Y direction      |	       |
+| TimeforBodyGyroJerkStd..inZ| 	50	       | Standard Deviation of Time for Body Angular Velocity Jerk in Z direction      |	       |
+| TimeforBodyAccelerationMagStd..| 	51	       | Standard Deviation of Time for Body Acceleration Magnitude      |	       |
+| TimeforGravityAccelerationMagStd..| 	52	       | Standard Deviation of Time for Gravity Acceleration Magnitude      |	       |
+| TimeforBodyAccelerationJerkMagStd..| 	53	       | Standard Deviation of Time for Body Acceleration Jerk Magnitude     |	       |
+| TimeforBodyGyroMagStd..| 	54	       | Standard Deviation of Time for Body Angular Velocity Magnitude      |	       |
+| TimeforBodyGyroJerkMagStd..| 	55	       | Standard Deviation of Time for Body Angular Velocity Jerk Magnitude    |	       |
+| FFTforBodyAccelerationStd..inX| 	56	       | Standard Deviation of FFT for Body Acceleration in X direction      |	       |
+| FFTforBodyAccelerationStd..inY| 	57	       | Standard Deviation of FFT for Body Acceleration in Y direction      |	       |
+| FFTforBodyAccelerationStd..inZ| 	58	       | Standard Deviation of FFT for Body Acceleration in Z direction      |	       |
+| FFTforBodyAccelerationJerkStd..inX| 	59	       | Standard Deviation of FFT for Body Acceleration Jerk in X direction      |	       |
+| FFTforBodyAccelerationJerkStd..inY| 	60	       | Standard Deviation of FFT for Body Acceleration Jerk in Y direction      |	       |
+| FFTforBodyAccelerationJerkStd..inZ| 	61	       | Standard Deviation of FFT for Body Acceleration Jerk in Z direction      |	       |
+| FFTforBodyGyroStd..inX| 	62	       | Standard Deviation of FFT for Body Angular Velocity in X direction      |	       |
+| FFTforBodyGyroStd..inY| 	63	       | Standard Deviation of FFT for Body Angular Velocity in Y direction      |	       |
+| FFTforBodyGyroStd..inZ| 	64	       | Standard Deviation of FFT for Body Angular Velocity in Z direction      |	       |
+| FFTforBodyAccelerationMagStd..| 	65	       | Standard Deviation of FFT for Body Acceleration Magnitude      |	       |
+| FFTforBodyAccelerationJerkMagStd..| 	66	       | Standard Deviation of FFT for Body Acceleration Jerk Magnitude     |	       |
+| FFTforBodyGyroMagStd..| 	67	       | Standard Deviation of FFT for Body Angular Velocity Magnitude      |	       |
+| FFTforBodyGyroJerkMagStd..| 	68	       | Standard Deviation of FFT for Body Angular Velocity Jerk Magnitude     |	       |
